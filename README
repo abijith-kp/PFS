@@ -1,0 +1,33 @@
+initially a prototype is made.
+files do not change untill all the syncronisation is done.
+
+(modify) = (remove)<FILE> + (add)<MODIFIED-FILE>
+
+<FILE> +----> (modify)<FILE>+----> (unchanged)<FILE>    #updation can be continued since the file is not changed again  #update other system
+       |                    |
+       |                    +----> ...
+       |
+       +----> (add)<FILE>     #send a signel to add the new file
+       |
+       +----> (delete)<FILE>  #send a signel to remove the file
+       |
+       +----> (unchanged)<FILE>
+
+/**
+ * changes to be made:
+ *      >> change all system calls to exec family calls
+ *      >> change all s* family string manupulation function to sn* family string manupulation function
+ *      >> keep a good format for log files
+ *      >> general stucturing of files
+ *      >> header files
+ *      >> free all the unused memory spaces using free()
+ *              >> some of it is already done
+ *      >> finish checkFiles function
+ *              >> is almost complete
+ **/
+/**
+ * ++ nodes in headDCS will contain deleted nodes headDTS will contain added
+ *    nodes. Those nodes both in headDCS and headDTS are modified nodes.
+ **/
+
+
