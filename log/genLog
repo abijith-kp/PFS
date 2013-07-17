@@ -39117,3 +39117,412 @@ SYNC: Syncing temporary file list with current file list
 FILECHECK: checkFiles
 COMMAND: exit
 EXIT: PFS terminating
+username: qwerty ;; port no: 3434
+
+[PFS log file]
+PROCESSING: /home/abijith/Project/PFS/config/checkSum
+INIT: creating user data structure
+INIT: Finishing init
+USER1: athena 192.168.40.99
+USER2: abi 127.0.0.2
+USER3: abijith 127.0.0.1
+FILECHECK: checkFiles
+COMMAND: ls
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+USERADD: replyPacket
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+USERADD: replyPacket
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+USERADD: replyPacket
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+USERADD: replyPacket
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+USERADD: replyPacket
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+USERADD: replyPacket
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+USERADD: replyPacket
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+USERADD: replyPacket
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+username: qwerty ;; port no: 3434
+
+[PFS log file]
+PROCESSING: /home/abijith/Project/PFS/config/checkSum
+INIT: creating user data structure
+INIT: Finishing init
+USER1: athena 192.168.40.99
+FILECHECK: checkFiles
+USER2: abi 127.0.0.2
+USER3: abijith 127.0.0.1
+COMMAND: ls
+LOOPING: activateFunc - 192.168.40.99 athena
+ERROR: activateFunc - connection error
+LOOPING: activateFunc - 127.0.0.2 abi
+ERROR: activateFunc - connection error
+LOOPING: activateFunc - 127.0.0.1 abijith
+ERROR: activateFunc - connection error
+COMMAND: chow
+ERROR: command not found
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: show
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: list
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: list
+COMMAND: list
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: list
+COMMAND: exit
+EXIT: PFS terminating
+username: qwerty ;; port no: 3434
+
+[PFS log file]
+PROCESSING: /home/abijith/Project/PFS/config/checkSum
+INIT: creating user data structure
+INIT: Finishing init
+USER1: athena 192.168.40.99
+USER2: abi 127.0.0.2
+USER3: abijith 127.0.0.1
+FILECHECK: checkFiles
+COMMAND: list
+LOOPING: activateFunc - 192.168.40.99 athena
+ERROR: activateFunc - connection error
+LOOPING: activateFunc - 127.0.0.2 abi
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+USERADD: replyPacket
+COMMAND: list
+LOOPING: activateFunc - 127.0.0.2 abi
+USERADD: replyPacket
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: exit
+EXIT: PFS terminating
+username: qwerty ;; port no: 3434
+
+[PFS log file]
+PROCESSING: /home/abijith/Project/PFS/config/checkSum
+INIT: creating user data structure
+INIT: Finishing init
+USER1: athena 192.168.40.99
+FILECHECK: checkFiles
+USER2: abi 127.0.0.2
+USER3: abijith 127.0.0.1
+COMMAND: ls
+COMMAND: list
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+USERADD: replyPacket
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+COMMAND: list
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 127.0.0.2 abi
+USERADD: replyPacket
+LOOPING: activateFunc - 127.0.0.1 abijith
+USERADD: replyPacket
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: exit
+EXIT: PFS terminating
+username: qwerty ;; port no: 3434
+
+[PFS log file]
+PROCESSING: /home/abijith/Project/PFS/config/checkSum
+INIT: creating user data structure
+INIT: Finishing init
+USER1: athena 192.168.40.99
+FILECHECK: checkFiles
+COMMAND: ls
+COMMAND: list
+LOOPING: activateFunc - 192.168.40.99 athena
+COMMAND: list
+LOOPING: activateFunc - 192.168.40.99 athena
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 192.168.40.99 athena
+ERROR: activateFunc - connection error
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: exit
+EXIT: PFS terminating
+username: qwerty ;; port no: 3434
+
+[PFS log file]
+PROCESSING: /home/abijith/Project/PFS/config/checkSum
+INIT: creating user data structure
+INIT: Finishing init
+USER1: athena 192.168.40.99
+FILECHECK: checkFiles
+COMMAND: ls
+LOOPING: activateFunc - 192.168.40.99 athena
+COMMAND: list
+LOOPING: activateFunc - 192.168.40.99 athena
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 192.168.40.99 athena
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 192.168.40.99 athena
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: list
+LOOPING: activateFunc - 192.168.40.99 athena
+LOOPING: activateFunc - 192.168.40.99 athena
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+LOOPING: activateFunc - 192.168.40.99 athena
+ERROR: activateFunc - connection error
+COMMAND: list
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: list
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: list
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: list
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+PROCESSING: /home/abijith/Project/PFS/config/tempSum
+SYNC: Syncing temporary file list with current file list
+FILECHECK: checkFiles
+COMMAND: list
+COMMAND: exit
+EXIT: PFS terminating
